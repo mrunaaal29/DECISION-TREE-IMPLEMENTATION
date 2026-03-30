@@ -110,3 +110,20 @@ Deployment of the model using Flask or Streamlit.
 Adding interactive widgets for prediction.
 
 8.OUTPUT :
+
+1.Dataset - first 5 rows
+<img width="1052" height="414" alt="Image" src="https://github.com/user-attachments/assets/5ffbeefa-063a-4e6a-bb39-7384c63de117" />
+
+2.Evaluation
+<img width="774" height="398" alt="Image" src="https://github.com/user-attachments/assets/ad9031a7-f3fc-4610-b5c1-cde51445b749" />
+
+3.Confusion Matrix
+<img width="910" height="768" alt="Image" src="https://github.com/user-attachments/assets/109e1024-3384-4ee1-96fb-8ce0b58756f7" />
+
+4.Decision tree visualization
+<img width="1744" height="964" alt="Image" src="https://github.com/user-attachments/assets/3d7d8373-7be0-4a05-aac9-9624adb59b36" />
+
+5.Example of prediction
+<img width="550" height="248" alt="Image" src="https://github.com/user-attachments/assets/5bd42076-4561-4806-a38d-a714688f8ec0" />
+
+
